@@ -56,7 +56,7 @@ namespace Voces
 
             app.UseSpa(spa =>
             {
-                spa.Options.SourcePath = "ClientApp";
+                spa.Options.SourcePath = "client";
 
                 if (env.IsDevelopment())
                 {
