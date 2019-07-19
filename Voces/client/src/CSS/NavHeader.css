@@ -36,6 +36,12 @@ font-family: 'Redressed', cursive; */
   border-bottom: 1px solid lightgrey;
 }
 
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
 .myNav ul li {
   margin: auto 20px; 
 }
