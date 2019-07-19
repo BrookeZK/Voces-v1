@@ -31,8 +31,15 @@ _Goals and features to develop after achieving MVP:_
 * _Authorization._
 * _Universal design: achieving accessibility._ 
 * _Media Queries: design for mobile use._
+* _Form to take in emails for be on mailing list._
 
 Additional tools, frameworks, libraries, APIs, or other resources for the additional features beyond MVP?
 
 * _https://oauth.net/2/ : OAuth._
+
+## Project Component Tree
+
+<p align="center">
+  <img src="./VocesComponentTree.jpg" alt="image of component structure" height="80%" width="80%">
+</p>
 
