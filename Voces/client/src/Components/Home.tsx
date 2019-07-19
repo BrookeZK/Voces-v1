@@ -1,9 +1,12 @@
 import React from 'react';
+import Nav from './Nav';
+import HeaderHomePage from './HeaderHomePage';
 
 export default function Home() {
   return (
     <div>
-       <h1>#Voces</h1>
+      <HeaderHomePage />
+      <Nav />
     </div>
   )
 }
