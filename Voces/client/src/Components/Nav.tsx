@@ -10,6 +10,7 @@ export default function Nav() {
           <li>Vidéos</li>
           <li>Voces de la Communidad</li>
           <li>Notícias</li>
+          <li>Cartas a la Editora</li>
           <li>¿Quiénes Sómos?</li>
         </ul>
       </div>

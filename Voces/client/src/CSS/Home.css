@@ -1,4 +1,24 @@
-.container {
+.wrapper {
+  margin-bottom: 200px;
+}
+
+.featured-editorial {
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 100px;
+}
+
+.featured-videos {
+  margin-top: 100px;
+}
+
+.featured-opinion {
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 100px;
+}
+
+.featured-news {
   margin-left: 15%;
   margin-right: 15%;
   margin-top: 100px;
