@@ -6,8 +6,6 @@
 
 ## Project Proposal
 
-* _Start MAMP and click Open WebStart page in the MAMP window._
-Capstone Project in React/Redux/Typescript/C#/MySQL
 _Project’s Purpose or Goal:_ 
 
 _This website will be the home of a project called ‘Voces’ by Rocio Rios. She’s a journalist with the goal of writing about hispanic and immigrant voices, issues and concerns in the community, beginning with an Oregon scope, but as the project grows, scaling to National coverage._
