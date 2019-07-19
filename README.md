@@ -40,6 +40,6 @@ Additional tools, frameworks, libraries, APIs, or other resources for the additi
 ## Project Component Tree
 
 <p align="center">
-  <img src="./VocesComponentTree.jpg" alt="image of component structure" height="80%" width="80%">
+  <img src="./Voces/assets/VocesComponentTree.jpg" alt="image of component structure" height="80%" width="80%">
 </p>
 
