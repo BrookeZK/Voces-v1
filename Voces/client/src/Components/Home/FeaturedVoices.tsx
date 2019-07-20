@@ -1,5 +1,5 @@
 import React from 'react';
-import '../CSS/Featured.css';
+import '../../CSS/Featured.css';
 
 export default function FeatureVoices() {
   return (

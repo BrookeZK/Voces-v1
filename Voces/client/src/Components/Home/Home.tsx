@@ -1,12 +1,12 @@
 import React from 'react';
-import Nav from './Nav';
+import Nav from '../Nav';
 import HeaderHomePage from './HeaderHomePage';
-import '../CSS/Home.css';
+import '../../CSS/Home.css';
 import FeaturedEditorial from './FeaturedEditorial';
 import FeaturedNews from './FeaturedNews';
 import FeaturedVideo from './FeaturedVideo';
 import FeaturedVoices from './FeaturedVoices';
-import Footer from './Footer';
+import Footer from '../Footer';
 
 export default function Home() {
   return (

@@ -1,5 +1,5 @@
 import React from 'react';
-import '../CSS/NavHeader.css';
+import '../../CSS/NavHeader.css';
 
 export default function HeaderHomePage() {
   return (
