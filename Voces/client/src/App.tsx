@@ -4,7 +4,7 @@ import './App.css';
 import Home from './Components/Home/Home';
 import VideosPage from './Components/Video/VideosPage';
 import EditorialPage from './Components/Editorial/EditorialPage';
-import LetterToEdiorPage from './Components/LetterToEdior/LetterToEdiorPage';
+import LetterToEditorPage from './Components/LetterToEditor/LetterToEditorPage';
 import CommunityVoicesPage from './Components/CommunityVoices/CommunityVoicesPage';
 import AboutPage from './Components/About/AboutPage';
 import NewsPage from './Components/News/NewsPage';
@@ -17,7 +17,7 @@ const App: React.FC = () => {
         <Route exact path='/' component={Home} />
         <Route exact path='/vidéos' component={VideosPage} />
         <Route exact path='/editorial' component={EditorialPage} />
-        <Route exact path='/cartas-a-la-editora' component={LetterToEdiorPage} />
+        <Route exact path='/cartas-a-la-editora' component={LetterToEditorPage} />
         <Route exact path='/voces-de-la-communidad' component={CommunityVoicesPage} />
         <Route exact path='/notícias' component={NewsPage} />
         <Route exact path='/quiénes-sómos' component={EditorialPage} />
