@@ -4,10 +4,10 @@ import '../CSS/Footer.css';
 export default function Footer() {
   return (
     <div>
-      <div className="content-container"> 
+      <div> 
         <div  className="footer-links">
           <div id="about-blurb"> 
-            <p>Voces de la comunidad</p>
+            <p><span className="title1sm">V</span><span className="title2sm">oces</span></p>
           </div>
           <div id="link-column">
           </div>
