@@ -3,8 +3,8 @@ import '../CSS/Featured.css';
 
 export default function FeatureVideo() {
   return (
-    <div className="border">
-      <h1>Featured News</h1>
+    <div className="border video">
+      <h1>Featured Video</h1>
     </div>
   )
 }

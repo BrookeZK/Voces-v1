@@ -1,7 +1,21 @@
 .border {
   border: 2px solid black;
-  /* margin: 25px; */
   background-color: white;
-  height: 500px;
   width: 100%;
+}
+
+.editorial {
+  height: 500px;
+}
+
+.news {
+  height: 1000px;
+}
+
+.video {
+  height: 500px;
+}
+
+.voices {
+  height: 500px;
 }

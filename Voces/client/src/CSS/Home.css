@@ -16,12 +16,14 @@
   margin-left: 10%;
   margin-right: 10%;
   margin-top: 100px;
+  height: 500px;
 }
 
 .featured-news {
   margin-left: 15%;
   margin-right: 15%;
   margin-top: 100px;
+  height: 1000px;
 }
 
 .main-content {
