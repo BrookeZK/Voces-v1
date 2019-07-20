@@ -3,6 +3,9 @@ import Nav from './Nav';
 import HeaderHomePage from './HeaderHomePage';
 import '../CSS/Home.css';
 import FeaturedEditorial from './FeaturedEditorial';
+import FeaturedNews from './FeaturedNews';
+import FeaturedVideo from './FeaturedVideo';
+import FeaturedVoices from './FeaturedVoices';
 import Footer from './Footer';
 
 export default function Home() {
@@ -16,13 +19,13 @@ export default function Home() {
             <FeaturedEditorial />
           </div>
           <div className="featured-videos">
-            <FeaturedEditorial />
+            <FeaturedVideo />
           </div>
-          <div className="featured-opinion">
-            <FeaturedEditorial />
+          <div className="featured-voices">
+            <FeaturedVoices />
           </div>
           <div className="featured-news">
-            <FeaturedEditorial />
+            <FeaturedNews />
           </div>
         </div>
       </div>  
