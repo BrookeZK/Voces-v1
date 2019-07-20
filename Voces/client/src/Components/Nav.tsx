@@ -1,17 +1,18 @@
 import React from 'react';
 import '../CSS/NavHeader.css';
+import { Link } from 'react-router-dom';
 
 export default function Nav() {
   return (
     <div>
       <div className="myNav">
         <ul>
-          <li>Editoriales</li>
-          <li>Vidéos</li>
-          <li>Voces de la Communidad</li>
-          <li>Notícias</li>
-          <li>Cartas a la Editora</li>
-          <li>¿Quiénes Sómos?</li>
+          <li><Link to="/editoriales">Editoriales</Link></li>
+          <li><Link to="/vidéos">Vidéos</Link></li>
+          <li><Link to="/voces-de-la-communidad">Voces de la Communidad</Link></li>
+          <li><Link to="/notícias">Notícias</Link></li>
+          <li><Link to="/cartas-a-la-editora">Cartas a la Editora</Link></li>
+          <li><Link to="/quiénes-sómos">¿Quiénes Sómos?</Link></li>
         </ul>
       </div>
     </div>

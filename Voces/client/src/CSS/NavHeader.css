@@ -44,6 +44,9 @@ font-family: 'Redressed', cursive; */
 
 .myNav ul li {
   margin: auto 20px; 
+  list-style-type: none;
+  text-decoration: none;
+  color: black;
 }
 
 ul {
@@ -53,8 +56,8 @@ ul {
 }
 
 #logo {
-    margin: 0 auto;
-    font-size: 30px;
+  margin: 0 auto;
+  font-size: 30px;
 }
 
 /* #left {
@@ -63,9 +66,9 @@ ul {
     margin-left: 20px;
 } */
 
-#explore {
+/* #explore {
   margin-right: 10px;
-}
+} */
 
 /* #right {
   display: flex;
@@ -74,10 +77,11 @@ ul {
   margin-right: 20px;
 } */
 
-#search {
+/* #search {
     margin-right: 10px;
-}
+} */
 
-li {
-  list-style-type: none;
+Link {
+  text-decoration: none;
+  color: black;
 }
