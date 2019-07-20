@@ -1,7 +1,7 @@
 .border {
-  border: 3px solid black;
+  border: 2px solid black;
   /* margin: 25px; */
-  background-color: grey;
+  background-color: white;
   height: 500px;
   width: 100%;
 }
