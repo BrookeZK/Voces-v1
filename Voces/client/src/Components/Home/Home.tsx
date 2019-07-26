@@ -13,7 +13,9 @@ export default function Home() {
     <div className="main-content">
       <div className="content-wrapper">
         <HeaderHomePage />
-        <Nav />
+        <div className="navMargin">
+          <Nav />
+        </div>
         <div className="wrapper">
           <div className="featured-editorial">
             <FeaturedEditorial />
