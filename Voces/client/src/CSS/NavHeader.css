@@ -1,3 +1,8 @@
+.link {
+  text-decoration: none;
+  color: black;
+}
+
 .header {
   text-align: center;
   margin-top: 50px;
@@ -81,7 +86,4 @@ ul {
     margin-right: 10px;
 } */
 
-Link {
-  text-decoration: none;
-  color: black;
-}
+
