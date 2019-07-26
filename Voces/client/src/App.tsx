@@ -22,7 +22,6 @@ const App: React.FC = () => {
         <Route exact path='/notícias' component={NewsPage} />
         <Route exact path='/quiénes-sómos' component={AboutPage} />
       </Switch>
-      <Home />
     </div>
   );
 }
