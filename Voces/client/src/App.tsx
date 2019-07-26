@@ -20,7 +20,7 @@ const App: React.FC = () => {
         <Route exact path='/cartas-a-la-editora' component={LetterToEditorPage} />
         <Route exact path='/voces-de-la-communidad' component={CommunityVoicesPage} />
         <Route exact path='/notícias' component={NewsPage} />
-        <Route exact path='/quiénes-sómos' component={EditorialPage} />
+        <Route exact path='/quiénes-sómos' component={AboutPage} />
       </Switch>
       <Home />
     </div>
