@@ -14,8 +14,40 @@
 
 .video {
   height: 500px;
+  background-image: url('../assets/girl-taken-at-border.png');
+  background-size: cover;
+  display: flex;
+  align-self: center;
+  justify-content: flex-end;
+}
+
+.vid-feature-content {
+  text-align: center;
+  align-self: center;
+  margin-right: 5%;
+  width: 50%;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  padding: 0;
+}
+
+
+.vid-feature-content * {
+  background-color: rgba(0, 0, 0, 0.5);
 }
 
 .voices {
   height: 500px;
+}
+
+.player-wrapper {
+  position: relative;
+  padding-top: 56.25% /* Player ratio: 100 / (1280 / 720) */
+}
+ 
+.react-player {
+  position: absolute;
+  top: 0;
+  left: 0;
 }
