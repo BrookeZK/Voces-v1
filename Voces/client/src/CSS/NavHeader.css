@@ -5,7 +5,8 @@ font-family: 'Yeseva One', cursive;
 font-family: 'Calligraffitti', cursive;
 font-family: 'Sirin Stencil', cursive;
 font-family: 'Delius Unicase', cursive;
-font-family: 'Redressed', cursive; */
+font-family: 'Redressed', cursive;
+font-family: 'Anton', sans-serif; */
 
 
 /* Home Header */
@@ -38,7 +39,6 @@ font-family: 'Redressed', cursive; */
   list-style-type: none;
   margin: 0;
   padding: 0px;
-  background-color: rgba(189, 15, 15, 0);
   width: 100%;
   height: 45px;
   font-family: 'Montserrat', sans-serif;
@@ -62,7 +62,6 @@ font-family: 'Redressed', cursive; */
   list-style-type: none;
   margin: 0;
   padding: 0px;
-  background-color: rgba(189, 15, 15, 0);
   width: 100%;
   height: 50px;
   font-family: 'Montserrat', sans-serif;
@@ -117,6 +116,8 @@ ul {
 }
 
 
+/* General Nav */
+
 /* #left {
     display: flex;
     width: 25%;
@@ -135,21 +136,37 @@ ul {
 
 #search {
     margin-right: 10px;
+}*/
+
+.smallNavHeader {
+  display: flex;
+  list-style-type: none;
+  text-decoration: none;
+  color: black;
+  margin: 0;
+  padding: 0px;
+  width: 100%;
+  height: 50px;
+  font-family: 'Montserrat', sans-serif;
+  justify-content: space-around;
+  align-items: center;
+  border-bottom: 1px solid lightgrey;
 }
 
 .logofont1 {
   font-family: 'Redressed', cursive;
-  font-size: 35px;
+  font-size: 30px;
 }
 
 .logofont2 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 30px;;
+  font-size: 20px;
+  letter-spacing: 1.5px;
 }
 
 #logo {
   margin: 0 auto;
-} */
+} 
 
 /* .myNav {
   list-style-type: none;
