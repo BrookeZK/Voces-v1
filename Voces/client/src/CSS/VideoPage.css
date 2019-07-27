@@ -21,10 +21,10 @@
   margin-right: 20%;
 }
 
-.videoViewer{
+/* .videoViewer{
   height: 100vh;
   width: auto;
-}
+} */
 
 .videoNav {
   list-style-type: none;
@@ -53,7 +53,8 @@
 
 .player-wrapper {
   position: relative;
-  padding-top: 56.25%; /* Player ratio: 100 / (1280 / 720) */
+  /* padding-top: 56.25%;  */
+  /* Player ratio: 100 / (1280 / 720) */
 }
  
 .react-player {

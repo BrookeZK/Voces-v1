@@ -14,7 +14,6 @@ export default function Video() {
           <li>Arte</li>
         </ul>
       </div>
-      <div className="video">
         <div className='player-wrapper'>
           <ReactPlayer
             className='react-player'
@@ -24,6 +23,5 @@ export default function Video() {
           />
         </div>
       </div>
-    </div>
   )
 }
