@@ -14,14 +14,14 @@ export default function Video() {
           <li>Arte</li>
         </ul>
       </div>
-        <div className='player-wrapper'>
-          <ReactPlayer
-            className='react-player'
-            url='https://vimeo.com/300390166'
-            width='100%'
-            height='93vh'
-          />
-        </div>
+      <div className='player-wrapper'>
+        <ReactPlayer
+          className='react-player'
+          url='https://vimeo.com/300390166'
+          width='100%'
+          height='93vh'
+        />
       </div>
+    </div>
   )
 }

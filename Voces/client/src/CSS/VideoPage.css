@@ -21,10 +21,11 @@
   margin-right: 20%;
 }
 
-/* .videoViewer{
+.videoViewer{
   height: 100vh;
   width: auto;
-} */
+  margin-bottom: 150px;
+}
 
 .videoNav {
   list-style-type: none;
