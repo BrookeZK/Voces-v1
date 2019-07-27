@@ -1,5 +1,5 @@
 import React from 'react';
-import Nav from '../Nav';
+import NavHome from '../NavHome';
 import HeaderHomePage from './HeaderHomePage';
 import '../../CSS/Home.css';
 import FeaturedEditorial from './FeaturedEditorial';
@@ -14,7 +14,7 @@ export default function Home() {
       <div className="content-wrapper">
         <HeaderHomePage />
         <div className="navMargin">
-          <Nav />
+          <NavHome />
         </div>
         <div className="wrapper">
           <div className="featured-editorial">
