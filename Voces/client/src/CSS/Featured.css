@@ -12,7 +12,7 @@
   height: 1000px;
 }
 
-.video {
+.videoFeatured {
   height: 500px;
   background-image: url('../assets/girl-taken-at-border.png');
   background-size: cover;

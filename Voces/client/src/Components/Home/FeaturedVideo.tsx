@@ -3,7 +3,7 @@ import '../../CSS/Featured.css';
 
 export default function FeatureVideo() {
   return (
-    <div className="video">
+    <div className="videoFeatured">
       <div className="vid-feature-content">
         <h1>Tomado en el borde</h1>
         <em>Un vidéo sobre el estado de la inmigración en los EEUU</em>
