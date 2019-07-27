@@ -11,7 +11,7 @@ import Footer from '../Footer';
 export default function Home() {
   return (
     <div className="main-content">
-      <div className="content-wrapper">
+      <div id="content-wrapper">
         <HeaderHomePage />
         <div className="navMargin">
           <NavHome />
@@ -31,7 +31,7 @@ export default function Home() {
           </div>
         </div>
       </div>  
-      <div className="footer">
+      <div id="footer">
         <Footer />
       </div>
     </div>

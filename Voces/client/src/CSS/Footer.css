@@ -3,6 +3,7 @@
   height: 250px;
   display: flex;
   border-top: 1px solid lightgrey;
+  background-color: blueviolet;
 }
 
 #about-blurb {
@@ -52,6 +53,7 @@
   display: flex;
   justify-content: space-between;
   height: 150px;
+  background-color: hotpink;
 }
 
 #terms {
