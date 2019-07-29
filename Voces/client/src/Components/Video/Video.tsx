@@ -3,9 +3,9 @@ import '../../CSS/VideoPage.css';
 import ReactPlayer from 'react-player';
 import immigration from '../../assets/immigration-vid.png';
 
-const MULTIPLE_SOURCES = [
-  { src: 'https://vimeo.com/300390166' },
-]
+// const MULTIPLE_SOURCES = [
+//   { src: 'https://vimeo.com/300390166' },
+// ]
 
 class Video extends Component<any, any> {
 

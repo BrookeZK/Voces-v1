@@ -20,14 +20,11 @@ export default function VideosPage() {
         <div id="vid" className="videoViewer">
           <Video />
         </div>
-      {/* <div id="collaborate">
-
-      </div> */}
-      <Collaborate />
-      <div id="footer">
-        <Footer />
+        <Collaborate />
+        <div id="footer">
+          <Footer />
+        </div>
       </div>
-    </div>
-  </div>  
+    </div>  
   )
 }
