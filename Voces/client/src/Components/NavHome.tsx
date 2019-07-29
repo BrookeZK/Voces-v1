@@ -28,7 +28,7 @@ export default function NavHome() {
       </div>  
       <div className="pageLinks">
         <ul>
-          <li><Link className="link" to="/editorial">Editoriales</Link></li>
+          <li><Link className="link" to="/editorial">Editorial</Link></li>
           <li><Link className="link" to="/videos">Vidéos</Link></li>
           <li><Link className="link" to="/tu-voz">Tú Voz</Link></li>
           <li><Link className="link" to="/noticias">Notícias</Link></li>

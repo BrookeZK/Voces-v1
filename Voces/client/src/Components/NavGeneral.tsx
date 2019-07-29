@@ -22,7 +22,7 @@ export default function NavGeneral() {
       </div>  
       <div className="pageLinks">  
         <ul>
-          <li><Link className="link" to="/editorial">Editoriales</Link></li>
+          <li><Link className="link" to="/editorial">Editorial</Link></li>
           <li><Link className="link" to="/videos">Vidéos</Link></li>
           <li><Link className="link" to="/tu-voz">Voces de la Communidad</Link></li>
           <li><Link className="link" to="/noticias">Notícias</Link></li>
