@@ -4,8 +4,24 @@
   width: 100%;
 }
 
-.editorial {
+.editorialFeatured {
   height: 500px;
+  background-image: url('../assets/student-health.jpg');
+  background-size: cover;
+  display: flex;
+  align-self: center;
+  justify-content: flex-start;
+}
+
+.editorial-feature-content{
+  text-align: center;
+  align-self: center;
+  margin-left: 5%;
+  width: 50%;
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  padding: 0;
 }
 
 .news {
@@ -30,6 +46,11 @@
   font-family: 'Montserrat', sans-serif;
   font-size: 30px;
   padding: 0;
+}
+
+.link-white {
+  text-decoration: none;
+  color: white;
 }
 
 
