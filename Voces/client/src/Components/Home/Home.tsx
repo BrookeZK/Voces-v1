@@ -7,6 +7,7 @@ import FeaturedNews from './FeaturedNews';
 import FeaturedVideo from './FeaturedVideo';
 import FeaturedVoices from './FeaturedVoices';
 import Footer from '../Footer';
+import Collaborate from '../Collaborate/Collaborate';
 
 export default function Home() {
   return (
@@ -30,6 +31,7 @@ export default function Home() {
             <FeaturedNews />
           </div>
         </div>
+        <Collaborate />
       </div>  
       <div id="footer">
         <Footer />
