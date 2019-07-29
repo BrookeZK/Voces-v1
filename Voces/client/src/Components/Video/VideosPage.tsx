@@ -4,6 +4,7 @@ import '../../CSS/VideoPage.css';
 import '../../CSS/Home.css';
 import Video from './Video';
 import Footer from '../Footer';
+import Collaborate from '../Collaborate/Collaborate';
 
 export default function VideosPage() {
   return (
@@ -19,10 +20,14 @@ export default function VideosPage() {
         <div id="vid" className="videoViewer">
           <Video />
         </div>
-      </div>
+      {/* <div id="collaborate">
+
+      </div> */}
+      <Collaborate />
       <div id="footer">
         <Footer />
       </div>
     </div>
+  </div>  
   )
 }

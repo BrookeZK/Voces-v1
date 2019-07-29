@@ -63,3 +63,18 @@
   top: 0;
   left: 0;
 }
+
+#videoImage {
+  z-index: 1;
+  height: 93vh;
+  width: auto;
+}
+
+.hide {
+  display: none;
+  z-index: -10;
+}
+
+#hiddenVid {
+  visibility: none;
+}
