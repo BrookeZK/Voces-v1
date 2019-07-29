@@ -45,3 +45,12 @@
     display: flex;
     justify-content: space-between;
 }
+
+.bold {
+    font-weight: 600;
+}
+
+.editorial-article {
+    padding-bottom: 20px;
+    border-bottom: 1px solid lightgrey;
+}
