@@ -9,6 +9,7 @@ import CommunityVoicesPage from './Components/CommunityVoices/CommunityVoicesPag
 import AboutPage from './Components/About/AboutPage';
 import NewsPage from './Components/News/NewsPage';
 import { Switch, Route } from 'react-router-dom';
+import Error404 from './Components/Error404';
 
 const App: React.FC = () => {
   return (
@@ -21,6 +22,7 @@ const App: React.FC = () => {
         <Route exact path='/tu-voz' component={CommunityVoicesPage} />
         <Route exact path='/noticias' component={NewsPage} />
         <Route exact path='/quienes-somos' component={AboutPage} />
+        <Route component={Error404} />
       </Switch>
     </div>
   );
