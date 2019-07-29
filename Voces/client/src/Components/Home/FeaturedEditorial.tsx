@@ -7,7 +7,7 @@ export default function FeatureEditorial() {
     <div className="editorialFeatured">
       <div className="editorial-feature-content">
         <h1>Trauma en los niños que no saben si sus padres van a regresar</h1>
-        <em>Una entrevista con <strong>Kat Kelley</strong>, directora de Iniciativas Estratégicas de Caridades Católicas de Oregon. </em>
+        <em>Una entrevista con <strong>Kat Kelley</strong>, directora de Iniciativas Estratégicas de Caridades Católicas de Oregon.</em>
         <Link className="link" to='/editorial'><strong>>> Leer Más >></strong></Link>
       </div>  
     </div>
