@@ -22,7 +22,7 @@ _The tools, frameworks, libraries, APIs, modules and/or other resources for the 
 * _MySql database with a C#/ASP.NetCore/EFCore back-end._
 * _React, Redux and Typescript front-end._
 * _https://www.i18next.com/ : library to translate webpages._
-* _https://www.shareapi.com/: api to share via social media._
+* _https://www.shareapi.com/  or  https://reactjsexample.com/social-media-share-buttons-and-share-counts-for-react/: api to share via social media._
 * _Scrollspy: https://medium.com/front-end-weekly/anatomy-of-a-scrollspy-component-with-react-and-typescript-1-2-c04f9d5c9bad_
 * _sticky components: https://github.com/captivationsoftware/react-sticky_
 
