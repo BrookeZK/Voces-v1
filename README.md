@@ -25,7 +25,7 @@ _The tools, frameworks, libraries, APIs, modules and/or other resources for the 
     * _https://codesandbox.io/s/8n252n822_
     * _https://codesandbox.io/s/n5jmk0q69j_
     * _https://formatjs.io/_
-    * __
+    
 * _https://www.shareapi.com/  or  https://reactjsexample.com/social-media-share-buttons-and-share-counts-for-react/: api to share via social media._
 * _Scrollspy: https://medium.com/front-end-weekly/anatomy-of-a-scrollspy-component-with-react-and-typescript-1-2-c04f9d5c9bad_
 * _sticky components: https://github.com/captivationsoftware/react-sticky_
@@ -53,7 +53,7 @@ Additional tools, frameworks, libraries, APIs, or other resources for the additi
 
 ## To Do List - presentation
 
-* _change title name to img_
+* _FIX VIDEO PAGE IMAGE_
 * _add dynamic date_
 * _finish home page_
 * _Update README.md_
