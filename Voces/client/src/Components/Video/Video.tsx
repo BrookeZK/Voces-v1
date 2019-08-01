@@ -75,6 +75,8 @@ class Video extends Component<any, any> {
         </div>
         <div id="videoImage" onClick={this.hideImage}>
           <div id="videoImageflex">
+            <br/>
+            <br/>
             <h1>Tomado en la frontera</h1>
             <h2>>> Ver >></h2>
           </div>
