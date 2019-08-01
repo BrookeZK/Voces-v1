@@ -1,23 +1,16 @@
 import React from 'react';
 import '../CSS/NavHeader.css';
 import { Link } from 'react-router-dom';
+import smallLogo from '../assets/voces-logo-small.png'
 
 export default function NavGeneral() {
   return (
     <div id="nav">
       <div className="smallNavHeader">
         <div id="left">
-          {/* <ul>
-            <li id="explore"><a href="#">Explore</a></li>
-            <li id="creator"><a href="#">I'm a creator</a></li>
-          </ul> */}
         </div>
-        <li id="logo"><Link to='/' className="link"><span className="logofont1">V</span><span className="logofont2"><strong>oces</strong></span></Link></li>
+          <li id="logo"><Link to='/'><img src={smallLogo} alt="voces logo"/></Link></li>
         <div id="right">
-          {/* <ul>
-            <li id="search"><a href="#">Search</a></li>
-            <li id="signIn"><a href="#">Sign in</a></li>
-          </ul> */}
         </div>
       </div>  
       <div className="pageLinks">  
