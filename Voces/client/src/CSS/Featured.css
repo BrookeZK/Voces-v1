@@ -1,9 +1,4 @@
-.border {
-  border: 2px solid black;
-  background-color: white;
-  width: 100%;
-}
-
+/* EDITORIAL */
 .editorialFeatured {
   height: 500px;
   background-image: url('../assets/student-health.jpg');
@@ -25,6 +20,8 @@
   padding: 0;
 }
 
+
+/* NEW S*/
 .newsFeatured {
   text-align: center;   
   font-family: 'Montserrat', sans-serif;
@@ -157,6 +154,8 @@
 }
 
 
+
+/*  VIDEO */
 .videoFeatured {
   height: 500px;
   background-image: url('../assets/girl-taken-at-border.png');
@@ -176,6 +175,8 @@
   font-size: 25px;
   padding: 0;
 }
+
+/* COMMUNITY VOICES */
 
 .voicesFeatured h1 {
   font-family: 'Montserrat', sans-serif;
@@ -202,7 +203,12 @@
 .featureVoice1 h2 {
   font-weight: 600;
   font-size: 40px;
+  margin-top: 10px;
   /* color: rgb(189, 125, 7); */
+}
+
+.seeMore {
+  text-align: right;
 }
 
 .name-highlight {
@@ -214,7 +220,8 @@
 
 .name-highlight2 {
   font-family: 'Redressed', cursive;
-  text-align: right;
+  text-align: center;
+  margin-top: 10px;
   font-size: 50px;
   font-style: italic;
   margin-right: 20px;
