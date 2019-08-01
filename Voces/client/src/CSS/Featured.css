@@ -20,6 +20,14 @@
   padding: 0;
 }
 
+.hoverEffect {
+  transition: all .2s ease-in-out;
+}
+
+.hoverEffect:hover {
+  transform: scale(1.05); 
+}
+
 
 /* NEW S*/
 .newsFeatured {
