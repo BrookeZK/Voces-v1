@@ -7,18 +7,19 @@
     margin: 10% 20% 20% 20%;
     position: relative;
     width: 800px;
-    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-family: 'Crimson Pro', serif;
 }
 
 .editorial-title {
-    font-weight: 300;
+    font-weight: 600;
     font-size: 40px;
-    font-family: Anton, sans-serif;
+    font-family: 'Merriweather', serif;
 }
 
 .editorial-subtitle {
     font-weight: 100;
-    font-size: 20px;
+    font-size: 25px;
 }
 
 .editorial-content > img {
@@ -29,7 +30,7 @@
 .img-text{
     margin-top: -2px;
     color: grey;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 600;
 }
 

@@ -1,3 +1,6 @@
+h1 { font-family: 'Merriweather', serif; }
+body { font-family: 'Crimson Pro', serif; }
+
 /* EDITORIAL */
 .editorialFeatured {
   height: 500px;
@@ -6,7 +9,6 @@
   display: flex;
   align-self: center;
   justify-content: flex-start;
-  border-radius: 25px;
 }
 
 .editorial-feature-content{
@@ -15,7 +17,7 @@
   margin-left: 5%;
   width: 50%;
   color: black;
-  font-family: 'Montserrat', sans-serif;
+  /* font-family: 'Montserrat', sans-serif; */
   font-size: 20px;
   padding: 0;
 }
@@ -46,7 +48,7 @@
 
 .newsGrid > * {
   border: 1px solid black;
-  border-radius: 25px;
+  font-family: 'Crimson Pro', serif; 
 }
 .newsGrid > div { transition: all .2s ease-in-out; }
 .newsGrid > div:hover { transform: scale(1.05); }
@@ -185,7 +187,7 @@
   margin-right: 5%;
   width: 50%;
   color: white;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Crimson Pro', serif;
   font-size: 25px;
   padding: 0;
 }
@@ -211,7 +213,6 @@
   color: white;
   position: relative;
   text-align: center;
-  border-radius: 25px;
 }
 
 .featureVoice1 h2 {
@@ -253,7 +254,6 @@
 }
 
 .featureVoice2 {
-  border-radius: 25px;
   width: 500px;
   height: 400px;
   background-image: url(../assets/feature1.png);
