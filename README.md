@@ -22,9 +22,15 @@ _The tools, frameworks, libraries, APIs, modules and/or other resources for the 
 * _MySql database with a C#/ASP.NetCore/EFCore back-end._
 * _React, Redux and Typescript front-end._
 * _https://www.i18next.com/ : library to translate webpages._
+    * _https://codesandbox.io/s/8n252n822_
+    * _https://codesandbox.io/s/n5jmk0q69j_
+    * _https://formatjs.io/_
+    * __
 * _https://www.shareapi.com/  or  https://reactjsexample.com/social-media-share-buttons-and-share-counts-for-react/: api to share via social media._
 * _Scrollspy: https://medium.com/front-end-weekly/anatomy-of-a-scrollspy-component-with-react-and-typescript-1-2-c04f9d5c9bad_
 * _sticky components: https://github.com/captivationsoftware/react-sticky_
+* _Typescript deepdive: https://legacy.gitbook.com/book/basarat/typescript/details_
+* _typescript + react + redux: https://medium.com/@rossbulat/how-to-use-typescript-with-react-and-redux-a118b1e02b76_
 
 _Goals and features to develop after achieving MVP:_
 
@@ -44,3 +50,15 @@ Additional tools, frameworks, libraries, APIs, or other resources for the additi
   <img src="./Voces/assets/VocesComponentTree.jpg" alt="image of component structure" height="80%" width="80%">
 </p>
 
+
+## To Do List - presentation
+
+* _change title name to img_
+* _add dynamic date_
+* _finish home page_
+* _Update README.md_
+
+## To Do List - post presentation
+* _translate option that detects location/browser and suggests how to translate_
+* _finish footer_
+* _make font on homepage responsive in size_
