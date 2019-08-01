@@ -68,13 +68,17 @@ class Video extends Component<any, any> {
           <ul className="videoNav">
             <li>Inmigración</li>
             <li>Protesta</li>
-            <li>Celebracion</li>
+            <li>Celebración</li>
             <li>Resistencia</li>
             <li>Arte</li>
           </ul>
         </div>
         <div id="videoImage" onClick={this.hideImage}>
-          <img src={immigration} alt="state of immigration video" width='100%' height='100%'/>
+          <div id="videoImageflex">
+            <h1>Tomado en la frontera</h1>
+            <h2>>> Ver >></h2>
+          </div>
+          {/* <img src={immigration} alt="state of immigration video" width='100%' height='100%'/> */}
         </div>
         <div id="hiddenVid" className="hide">
           <div className='player-wrapper'>
