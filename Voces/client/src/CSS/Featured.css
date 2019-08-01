@@ -204,16 +204,19 @@
   font-weight: 600;
   font-size: 40px;
   margin-top: 10px;
-  /* color: rgb(189, 125, 7); */
 }
 
 .seeMore {
   text-align: right;
+  transition: all 500ms;
+}
+
+.seeMore:hover {
+  font-size: 25px;
 }
 
 .name-highlight {
   font-family: 'Redressed', cursive;
-  /* color: white; */
   font-size: 50px;
   font-style: italic;
 }
