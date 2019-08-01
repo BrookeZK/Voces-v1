@@ -3,13 +3,13 @@
 }
 
 .navMargin {
-  margin-left: 10%;
-  margin-right: 10%;
+  margin-left: 15%;
+  margin-right: 15%;
 }
 
 .featured-editorial {
-  margin-left: 10%;
-  margin-right: 10%;
+  margin-left: 15%;
+  margin-right: 15%;
   margin-top: 100px;
 }
 
@@ -18,15 +18,15 @@
 }
 
 .featured-voices {
-  margin-left: 10%;
-  margin-right: 10%;
+  margin-left: 15%;
+  margin-right: 15%;
   margin-top: 100px;
   height: 500px;
 }
 
 .featured-news {
-  margin-left: 15%;
-  margin-right: 15%;
+  margin-left: 20%;
+  margin-right: 20%;
   margin-top: 100px;
   height: 2250px;
 }
