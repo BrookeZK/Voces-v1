@@ -195,7 +195,7 @@ body { font-family: 'Crimson Pro', serif; }
 /* COMMUNITY VOICES */
 
 .voicesFeatured h1 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Merriweather', serif;
   font-size: 45px;
   color: black;
 }
@@ -215,6 +215,16 @@ body { font-family: 'Crimson Pro', serif; }
   text-align: center;
 }
 
+.featureVoice2 {
+  width: 500px;
+  height: 400px;
+  background-image: url(../assets/feature1.png);
+  background-size: cover;
+  color: black;
+  position: relative;
+  text-align: center;
+}
+
 .featureVoice1 h2 {
   font-weight: 600;
   font-size: 40px;
@@ -224,6 +234,7 @@ body { font-family: 'Crimson Pro', serif; }
 .seeMore {
   text-align: right;
   transition: all 500ms;
+  margin-right: 20px;
 }
 
 .seeMore:hover {
@@ -250,17 +261,9 @@ body { font-family: 'Crimson Pro', serif; }
   margin-right: 10px;
   position: absolute;
   bottom: 0;
+  margin: 0;
+  font-weight: 600;
   font-size: 20px;
-}
-
-.featureVoice2 {
-  width: 500px;
-  height: 400px;
-  background-image: url(../assets/feature1.png);
-  background-size: cover;
-  color: black;
-  position: relative;
-  text-align: center;
 }
 
 .featuredTagLine2 {
@@ -268,6 +271,7 @@ body { font-family: 'Crimson Pro', serif; }
   margin-right: 10px;
   position: absolute;
   bottom: 0;
+  margin: 0;
   font-size: 20px;
   font-weight: 600;
 }
