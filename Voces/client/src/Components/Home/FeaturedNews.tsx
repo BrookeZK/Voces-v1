@@ -4,6 +4,7 @@ import '../../CSS/Featured.css';
 export default function FeatureNews() {
   const readability = {
     backgroundColor: "rgba(255, 255, 255, 0.5",
+    alignSelf: 'center'
   }
 
   return (
