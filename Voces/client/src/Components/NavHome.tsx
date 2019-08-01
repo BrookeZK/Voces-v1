@@ -18,7 +18,7 @@ export default function NavHome() {
           </ul>
         </div>
         <div className="date">
-          <li id="date">Viernes 26 de Julio, 2019</li>
+          <li id="date">Jueves 1 de Agosto, 2019</li>
         </div>
         <div id="right2">
           <ul>
