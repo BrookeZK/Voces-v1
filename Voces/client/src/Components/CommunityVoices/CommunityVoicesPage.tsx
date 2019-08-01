@@ -12,11 +12,12 @@ export default function CommunityVoicesPage() {
         <NavGeneral />
         <div className="voices">
           <div>
-           
+            {/* <h1><em>¡Te ecuchamos!</em></h1>
+            <h2>Aqui la voz de los líderes y miembros de la communidad latinx. Explora los videos. Deja su commentario. Discute los temas que importa.</h2> */}
           </div>
         </div>
-        <div id="vid" className="videoViewer">
-          <VideoCommunity />
+        <div id="vid" className="comVideoViewer">
+          {/* <VideoCommunity /> */}
         </div>
         <Collaborate />
         <div id="footer">
