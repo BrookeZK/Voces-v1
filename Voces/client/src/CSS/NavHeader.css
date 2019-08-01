@@ -49,6 +49,7 @@ font-family: 'Crimson Pro', serif; */
   align-self: center;
   align-content: center;
   border-bottom: 1px solid lightgrey;
+  font-size: 18px;
 }
 
 .pageLinks ul li {
@@ -71,7 +72,7 @@ font-family: 'Crimson Pro', serif; */
   justify-content: space-between;
   border-top: 2px solid black;
   border-bottom: 1px solid grey;
-  font-size: 14px;
+  font-size: 18px;
 }
 
 .infoNav ul li {
@@ -93,7 +94,7 @@ ul {
   height: 25px;
   margin: 0 auto;
   border: none;
-  font-size: 12px;
+  font-size: 14px;
   border:solid 1px grey;
   border-radius: 20px;
   background-color: white;
