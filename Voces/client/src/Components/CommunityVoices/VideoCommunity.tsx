@@ -1,6 +1,11 @@
 import * as React from 'react';
 import ReactPlayer from 'react-player';
 
+const MULTIPLE_SOURCES = [
+  'https://vimeo.com/285762199',
+  'https://vimeo.com/43828320'
+]
+
 class VideoCommunity extends React.Component<any, any> {
 
   constructor(props: any) {
@@ -20,9 +25,10 @@ class VideoCommunity extends React.Component<any, any> {
       loop: false,
       hideImg: false
     }
+
     this.load = this.load.bind(this);
     this.playPause = this.playPause.bind(this);
-    this.load('https://player.pbs.org/viralplayer/2365840894/');
+    this.load('https://vimeo.com/285762199');
   }
 
   load = (url: any) => {
@@ -52,7 +58,7 @@ class VideoCommunity extends React.Component<any, any> {
           <ReactPlayer
             // ref={this.ref}
             className='react-player'
-            url='https://player.pbs.org/viralplayer/2365840894/'
+            url='https://vimeo.com/285762199'
             pip={pip}
             playing={playing}
             controls={controls}
