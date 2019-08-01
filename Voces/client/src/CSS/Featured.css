@@ -11,6 +11,7 @@
   display: flex;
   align-self: center;
   justify-content: flex-start;
+  border-radius: 25px;
 }
 
 .editorial-feature-content{
@@ -46,6 +47,77 @@
   font-family: 'Montserrat', sans-serif;
   font-size: 25px;
   padding: 0;
+}
+
+.voicesFeatured h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 45px;
+  color: black;
+}
+
+.feature-voices-flex {
+  display: flex;
+  justify-content: space-around;
+}
+
+.featureVoice1 {
+  width: 500px;
+  height: 400px;
+  background-image: url(../assets/feature2.png);
+  background-size: cover;
+  color: white;
+  position: relative;
+  text-align: center;
+  border-radius: 25px;
+}
+
+.featureVoice1 h2 {
+  font-weight: 600;
+  font-size: 40px;
+  /* color: rgb(189, 125, 7); */
+}
+
+.name-highlight {
+  font-family: 'Redressed', cursive;
+  /* color: white; */
+  font-size: 50px;
+  font-style: italic;
+}
+
+.name-highlight2 {
+  font-family: 'Redressed', cursive;
+  text-align: right;
+  font-size: 50px;
+  font-style: italic;
+  margin-right: 20px;
+}
+
+.featuredTagLine {
+  margin-left: 10px;
+  margin-right: 10px;
+  position: absolute;
+  bottom: 0;
+  font-size: 20px;
+}
+
+.featureVoice2 {
+  border-radius: 25px;
+  width: 500px;
+  height: 400px;
+  background-image: url(../assets/feature1.png);
+  background-size: cover;
+  color: black;
+  position: relative;
+  text-align: center;
+}
+
+.featuredTagLine2 {
+  margin-left: 10px;
+  margin-right: 10px;
+  position: absolute;
+  bottom: 0;
+  font-size: 20px;
+  font-weight: 600;
 }
 
 .link-white {
