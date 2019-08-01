@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 
 export default function NavGeneral() {
   return (
-    <div>
+    <div id="nav">
       <div className="smallNavHeader">
         <div id="left">
           {/* <ul>
