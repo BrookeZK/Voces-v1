@@ -30,10 +30,10 @@ export default function NavHome() {
         <ul>
           <li><Link className="link" to="/editorial">Editorial</Link></li>
           <li><Link className="link" to="/videos">Vidéos</Link></li>
-          <li><Link className="link" to="/tu-voz">Tú Voz</Link></li>
-          <li><Link className="link" to="/noticias">Notícias</Link></li>
-          <li><Link className="link" to="/cartas-a-la-editora">Cartas a la Editora</Link></li>
-          <li><Link className="link" to="/quienes-somos">¿Quiénes Sómos?</Link></li>
+          <li className="link">Tú Voz</li>
+          <li className="link">Notícias</li>
+          <li className="link">Cartas a la Editora</li>
+          <li className="link">¿Quiénes Sómos?</li>
         </ul>
       </div>
     </div>
