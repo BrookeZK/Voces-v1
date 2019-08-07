@@ -48,6 +48,7 @@ font-family: 'Crimson Pro', serif; */
   justify-content: space-around;
   align-self: center;
   align-content: center;
+  align-items: center;
   border-bottom: 1px solid lightgrey;
   font-size: 18px;
 }
