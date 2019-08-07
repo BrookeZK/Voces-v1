@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Voces/static/css/main.9e8432ee.chunk.css",
+    "main.js": "/Voces/static/js/main.af5d88a7.chunk.js",
+    "main.js.map": "/Voces/static/js/main.af5d88a7.chunk.js.map",
+    "runtime~main.js": "/Voces/static/js/runtime~main.39a0a7ac.js",
+    "runtime~main.js.map": "/Voces/static/js/runtime~main.39a0a7ac.js.map",
+    "static/js/2.f0a5be6d.chunk.js": "/Voces/static/js/2.f0a5be6d.chunk.js",
+    "static/js/2.f0a5be6d.chunk.js.map": "/Voces/static/js/2.f0a5be6d.chunk.js.map",
+    "index.html": "/Voces/index.html",
+    "precache-manifest.cbf8f6e720114e62b08406489dfdc948.js": "/Voces/precache-manifest.cbf8f6e720114e62b08406489dfdc948.js",
+    "service-worker.js": "/Voces/service-worker.js",
+    "static/css/main.9e8432ee.chunk.css.map": "/Voces/static/css/main.9e8432ee.chunk.css.map",
+    "static/media/children.jpg": "/Voces/static/media/children.bd7887c7.jpg",
+    "static/media/Featured.css": "/Voces/static/media/student-health.49d6200d.jpg",
+    "static/media/immigration-vid-text.png": "/Voces/static/media/immigration-vid-text.cf3d3dd6.png",
+    "static/media/voces-logo-large.png": "/Voces/static/media/voces-logo-large.0d443891.png"
+  }
+}
