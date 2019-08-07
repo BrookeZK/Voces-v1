@@ -4,6 +4,8 @@
 
 #### By _Brooke Kullberg_
 
+#### Please checkout the in-progress version at : https://brookezk.github.io/Voces/#/
+
 ## Project Proposal
 
 _Project’s Purpose or Goal:_ 
