@@ -49,16 +49,3 @@ Additional tools, frameworks, libraries, APIs, or other resources for the additi
 <p align="center">
   <img src="./Voces/client/src/assets/VocesComponentTree.jpg" alt="image of component structure" height="80%" width="80%">
 </p>
-
-
-## To Do List - presentation
-
-* _FIX VIDEO PAGE IMAGE_
-* _add dynamic date_
-* _finish home page_
-* _Update README.md_
-
-## To Do List - post presentation
-* _translate option that detects location/browser and suggests how to translate_
-* _finish footer_
-* _make font on homepage responsive in size_
