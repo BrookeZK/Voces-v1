@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import '../../CSS/VideoPage.css';
 import ReactPlayer from 'react-player';
-import immigration from '../../assets/immigration-vid.png';
+import immigration from '../../assets/immigration-vid-text.png';
 
 // const MULTIPLE_SOURCES = [
 //   { src: 'https://vimeo.com/300390166' },
@@ -74,13 +74,13 @@ class Video extends Component<any, any> {
           </ul>
         </div>
         <div id="videoImage" onClick={this.hideImage}>
-          <div id="videoImageflex">
+          {/* <div id="videoImageflex">
             <br/>
             <br/>
             <h1>Tomado en la frontera</h1>
             <h2>>> Ver >></h2>
-          </div>
-          {/* <img src={immigration} alt="state of immigration video" width='100%' height='100%'/> */}
+          </div> */}
+          <img src={immigration} alt="state of immigration video" width='100%' height='100%'/>
         </div>
         <div id="hiddenVid" className="hide">
           <div className='player-wrapper'>
