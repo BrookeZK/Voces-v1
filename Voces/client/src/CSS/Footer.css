@@ -1,0 +1,82 @@
+.footer-links {
+  background: white;
+  height: 250px;
+  display: flex;
+  border-top: 1px solid grey;
+  background-color: white;
+}
+
+#about-blurb {
+  width: 30%;
+  margin-left: 50px;
+  align-self: center;
+  color: black;
+  font-size: 15px;
+}
+
+.title1sm {
+  font-family: 'Redressed', cursive;
+  font-size: 16px;
+}
+
+.title2sm {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+}
+
+#link-column {
+  width: 70%;
+  display: flex;
+  justify-content: space-around;
+  align-self: center;
+}
+
+.footer-links h6 {
+  font-size: 15px;
+}
+
+.footer-links ul {
+  list-style: none;
+  padding-left: 0;
+  color: grey;
+  font-size: 15px;
+}
+
+.footer-links li {
+  margin-bottom: 5px;
+}
+
+.copyright {
+  background-color: white;
+  border-top: 1px solid grey;   
+  color: black;
+  display: flex;
+  justify-content: space-between;
+  height: 150px;
+  background-color: lightgrey;
+}
+
+#terms {
+  margin-left: 50px;
+  font-size: 14px;
+  align-self: center;
+}
+
+#signup {
+  margin-right: 40px;
+  align-self: center;
+}
+
+input#email {
+  width: 60%;
+  margin: 0 auto;
+  border: none;
+  font-size: 16px;
+  border:solid 1px #ccc;
+  border-radius: 20px;
+  background-color: white;
+  width: 500px;
+  height: 30px;
+  padding: 10px;
+  font-family: 'Crimson Pro', serif;
+}

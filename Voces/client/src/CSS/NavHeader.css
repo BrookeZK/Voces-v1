@@ -1,0 +1,200 @@
+/* Font Options*/
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Cinzel Decorative', cursive;
+font-family: 'Yeseva One', cursive;
+font-family: 'Calligraffitti', cursive;
+font-family: 'Sirin Stencil', cursive;
+font-family: 'Delius Unicase', cursive;
+font-family: 'Redressed', cursive;
+font-family: 'Anton', sans-serif;
+font-family: 'Merriweather', serif;
+font-family: 'Crimson Pro', serif; */
+
+
+/* Home Header */
+.header {
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+/* .title1 {
+  font-family: 'Redressed', cursive;
+  font-size: 120px;
+}
+
+.title2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 80px;
+} */
+
+
+/*Link un-decoration*/
+.link {
+  text-decoration: none;
+  color: black;
+}
+
+
+/* Page Links Nav */
+.pageLinks {
+  list-style-type: none;
+  margin: 0;
+  padding: 0px;
+  width: 100%;
+  height: 45px;
+  font-family: 'Crimson Pro', serif;
+  display: flex;
+  justify-content: space-around;
+  align-self: center;
+  align-content: center;
+  border-bottom: 1px solid lightgrey;
+  font-size: 18px;
+}
+
+.pageLinks ul li {
+  margin: auto 20px; 
+  list-style-type: none;
+  text-decoration: none;
+  color: black;
+}
+
+/* Home infoNav with date, search bar and language options */
+
+.infoNav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0px;
+  width: 100%;
+  height: 50px;
+  font-family: 'Crimson Pro', serif;
+  display: flex;
+  justify-content: space-between;
+  border-top: 2px solid black;
+  border-bottom: 1px solid grey;
+  font-size: 18px;
+}
+
+.infoNav ul li {
+  list-style-type: none;
+  text-decoration: none;
+  color: black;
+}
+
+/* THIS MAKES THE SEARCH BAR AND ICON STAY IN LINE */
+ul {
+  align-items: center;
+  display: flex;
+  padding: 0;
+}
+/* EVEN THOUGH IT WILL AFFECT ALL UL */
+
+.searchBar {
+  width: 120px;
+  height: 25px;
+  margin: 0 auto;
+  border: none;
+  font-size: 14px;
+  border:solid 1px grey;
+  border-radius: 20px;
+  background-color: white;
+  padding-left: 10px;
+  font-family: 'Crimson Pro', serif;
+}
+
+#left2{
+  display: flex;
+  align-content: space-around;
+  align-self: center;
+  align-items: center;
+}
+
+#left2 img {
+  display: flex;
+  margin-left: 10px;
+}
+
+.date{
+  display: flex;
+  align-items: center;
+}
+
+
+/* General Nav */
+
+/* #left {
+    display: flex;
+    width: 25%;
+}
+
+#explore {
+  margin-right: 10px;
+}
+
+#right {
+  display: flex;
+  width: 25%;
+  justify-content: flex-end;
+  margin-right: 20px;
+}
+
+#search {
+    margin-right: 10px;
+}*/
+
+.smallNavHeader {
+  display: flex;
+  list-style-type: none;
+  text-decoration: none;
+  color: black;
+  margin: 0;
+  padding: 0px;
+  width: 100%;
+  height: 50px;
+  font-family: 'Crimson Pro', serif;
+  justify-content: space-around;
+  align-items: center;
+  border-bottom: 1px solid lightgrey;
+}
+
+/* .logofont1 {
+  font-family: 'Redressed', cursive;
+  font-size: 30px;
+}
+
+.logofont2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  letter-spacing: 1.5px;
+} */
+
+#logo {
+  margin: 0 auto;
+} 
+
+/* .myNav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0px;
+  background-color: rgba(189, 15, 15, 0);
+  width: 100%;
+  height: 50px;
+  font-family: 'Montserrat', sans-serif;
+  display: flex;
+  justify-content: space-around;
+  border-top: 3px solid black;
+  border-bottom: 1px solid lightgrey;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.myNav ul li {
+  margin: auto 20px; 
+  list-style-type: none;
+  text-decoration: none;
+  color: black;
+} */
