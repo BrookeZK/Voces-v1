@@ -13,9 +13,6 @@ _This website will be the home of a project called ‘Voces’ by Rocio Rios. Sh
 _The absolute minimum features the project requires to meet this purpose or goal:_
 
 * _Website written in Spanish including: landing page, pages for articles, editorials, videos, letters to editor, about._
-* _Being able to leave comments, share on social media._
-* _Website in spanish that translates to english, or other languages.
-* _Connection to an SQL database._
 
 _The tools, frameworks, libraries, APIs, modules and/or other resources for the MVP?_
 
@@ -34,6 +31,9 @@ _The tools, frameworks, libraries, APIs, modules and/or other resources for the 
 
 _Goals and features to develop after achieving MVP:_
 
+* _Being able to leave comments, share on social media._
+* _Website in spanish that translates to english, or other languages.
+* _Connection to an SQL database._
 * _An Admin section twith CRUD functionality._
 * _Authorization._
 * _Universal design: achieving accessibility._ 
